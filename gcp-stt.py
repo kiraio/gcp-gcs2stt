@@ -93,7 +93,7 @@ def uploadToGCS(file):
             print(e)
             print('#######')
     else:
-        # GCS上にファイルが存在するためアップロード
+        # GCS上にファイルが存在するためスキップ
         print('skip upload: ', file)
         print('#######')
 
