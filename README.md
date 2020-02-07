@@ -25,17 +25,17 @@ pip install google-cloud-storage
 ```
 $ python gcp-stt.py 
 ディレクトリのパスを入力してください: <音声ファイルが置かれたディレクトリパスを入力>
-## START: sample/05.femal.normal.wav
-start check input file: <ファイルパス>
+## START: XXXXXXXXX
+start check input file: XXXXXXXXX
 #######
-start check .wav file info: <ファイルパス>
+start check .wav file info: XXXXXXXXX
 #######
 start upload to gcs
-done upload to gcs: <ファイルパス>
+done upload to gcs: XXXXXXXXX
 #######
-exec stt: <ファイルパス>
-Transcript: ＜テキスト化結果＞
-done stt: <ファイルパス>
+exec stt: XXXXXXXXX
+Transcript: ???????????????????????????????????????
+done stt: XXXXXXXXX
 #######
 ## END: <ファイルパス>
 start date: YYYY-MM-DD HH:MM:SS.xxxxxx
