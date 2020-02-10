@@ -2,7 +2,7 @@
 - PythonでGoogle Speech to TextとGoogle Storageを使った音声テキスト化するツール
 
 # 解説記事
-http://niandc-jurd.movabletype.biz/sol/tech/date20200207_1838.php
+https://www.niandc.co.jp/sol/tech/date20200207_1838.php
 
 # 動作確認環境
 - OS: Mac Catalina 10.15.2
